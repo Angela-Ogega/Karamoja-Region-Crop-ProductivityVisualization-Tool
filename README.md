@@ -8,7 +8,7 @@ Over time, several NGOs have volunteered to provide technical support by availin
 This project seeks to develop a new food security monitoring tool to support the decision-making of one of those NGOs active in Karamoja. This will be done through coming up with a methodology to remotely measure the yield of the two main staple crops of the region (i.e. sorghum and maize) based on satellite images.
 The data available for this project was derived from the 2017 crop season. The data is inclusive of shape files that contain data on Boundaries of Uganda sub counties and Districts, tables with information on Crop yield, Population, Crop area, Crop Productivity etc
 
-#Link
+# Link
 https://public.tableau.com/app/profile/angela7960/viz/KaramojaCropProductivityVisualizationTool/Dashboard
 # Technology used
 Tableau Desktop
